@@ -1,5 +1,5 @@
 {
-    "2434": 
+    "customer1": 
         {
             "name":"Bhupendra jogi",
             "age": 56,
@@ -7,7 +7,7 @@
             "email": "Bhupendrajohi@xyz.com"
         }
         ,    
-    "1224": 
+    "customer2": 
         {
             "name":"rohan",
             "age": 53,
@@ -15,7 +15,7 @@
             "email": "sdf@xyz.com"
         }
         ,    
-    "2454": 
+    "customer3": 
         {
             "name":"baigan",
             "age": 23,
@@ -23,7 +23,7 @@
             "email": "adsgrg@xyz.com"
         }
         ,    
-    "4547": 
+    "customer4": 
         {
             "name":"johnny",
             "age": 90,
@@ -31,7 +31,7 @@
             "email": "Bhsdssi@xyz.com"
         }
         ,    
-    "6547": 
+    "customer5": 
         {
             "name":"Mia",
             "age": 250,
